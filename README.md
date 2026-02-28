@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Conrad Ang</h1>
 <h3 align="center"><strong>Conrad </strong>is a passionate Final Year Software Engineering Student from the University of Auckland, New Zealand</h3>
 
-- 🔭 Currently working on **Project #13: Can AI Learn to Write Better Code on Its Own? Reinforcement Learning for Enhancing LLM Coding Agents**
+- 🔭 Currently working on: **Project #13: Can AI Learn to Write Better Code on Its Own? Reinforcement Learning for Enhancing LLM Coding Agents**
 
-- 🌱 Currently learning **AI and Machine Learning**
+- 🌱 Currently learning: **AI and Machine Learning**
 
-- 💬 Ask me about **Java, C and Python**
+- 💬 Ask me about: **Java, C and Python**
 
-- 📫 How to reach me **conradang2004@gmail.com**
+- 📫 How to reach me: **conradang2004@gmail.com**, **<a href="https://www.linkedin.com/in/conrad-ang-346919365/" target="blank"> LinkedIn</a>**
 
-- ⚡ Fun fact **I play Table Tennis 🏓**
+- ⚡ Fun fact: **I play Table Tennis 🏓**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
