@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Conrad Ang</h1>
-<h3 align="center">4th Year University Student from the University of Auckland, New Zealand</h3>
+<h3 align="center"><strong>Conrad </strong>is a passionate Final Year Software Engineering Student from the University of Auckland, New Zealand</h3>
 
-- 🔭 I’m currently working on **Project #13: Can AI Learn to Write Better Code on Its Own? Reinforcement Learning for Enhancing LLM Coding Agents**
+- 🔭 Currently working on **Project #13: Can AI Learn to Write Better Code on Its Own? Reinforcement Learning for Enhancing LLM Coding Agents**
 
-- 🌱 I’m currently learning **AI and Machine Learning**
+- 🌱 Currently learning **AI and Machine Learning**
 
 - 💬 Ask me about **Java, C and Python**
 
