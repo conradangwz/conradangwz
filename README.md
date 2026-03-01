@@ -1,5 +1,5 @@
-<h1 align="center">Kia Ora 👋, I'm Conrad Ang</h1>
-<h3 align="center"><strong>Conrad </strong>is a passionate Final Year Software Engineering Student from the University of Auckland, New Zealand</h3>
+<h1 align="left">Kia Ora 👋, I'm Conrad Ang</h1>
+<h3 align="left"><strong>Conrad </strong>is a passionate Final Year Software Engineering Student from the University of Auckland, New Zealand</h3>
 
 - 🔭 Currently working on: **Project #13: Can AI Learn to Write Better Code on Its Own? Reinforcement Learning for Enhancing LLM Coding Agents**
 
