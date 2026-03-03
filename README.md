@@ -11,6 +11,11 @@
 
 - ⚡ Fun fact: **I play Table Tennis 🏓**
 
+<h3 align="left">Check me out:</h3>
+
+  **<a href="https://conradangwz.github.io/" target="blank"> LinkedIn</a>**
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/conrad.ang.355" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="conrad.ang.355" height="30" width="40" /></a>
