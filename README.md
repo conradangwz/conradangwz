@@ -13,7 +13,7 @@
 
 <h3 align="left">Check me out:</h3>
 
-  **<a href="https://conradangwz.github.io/" target="blank"> LinkedIn</a>**
+  **<a href="https://conradangwz.github.io/" target="blank"> My Portfolio</a>**
 
 
 <h3 align="left">Connect with me:</h3>
